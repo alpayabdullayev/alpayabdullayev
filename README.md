@@ -97,7 +97,7 @@
 <a href="#">
   <img align="right"/>
 </a>
-- :comet: &nbsp;**[Github](https://github.com/alpayabdullayev)** - :camera:
+- :comet: &nbsp;**[Github](https://github.com/alpayabdullayev)** - :camera: <br/>
 &nbsp;**[Instagram](https://www.instagram.com/alphay09/)**
 
 <br />
