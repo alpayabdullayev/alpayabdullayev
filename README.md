@@ -1,16 +1,113 @@
-### Hi there 👋
+<h1 align="left">Hi 👋, I'm Alpay Abdullayev</h1>
 
-<!--
-**alpayabdullayev/alpayabdullayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<h2 align="left">A frontend developer from Azerbaijan</h2>
+<a>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="" align="right" width="400"/>
+</a>
+<br>
+<br>
+<br>
+
+- 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **JavaScript**
+
+- 📫 How to reach me **alpayabdullayev0@gmail.com**
+
+<br>
+<br>
+
+<h2 align="left" id="alpay-stack">Tech stack</h2>
+
+> General
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+      <a href="#alpay-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#alpay-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96"> 
+      <a href="#alpay-stack" >
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
+      </a>
+      <br>Npm
+    </td>
+     <td align="center" width="96"> 
+      <a href="#alpay-stack" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" width="48" height="48" alt="github" />
+      </a>
+      <br>Github
+  </tr> 
+</table>
+
+> Frontend
+
+<table width='100%'> 
+    <tr>
+    <td align="center" width="96">
+      <a href="#alpay-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96"> 
+      <a href="#alpay-stack" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
+      </a>
+      <br>Css3
+    </td>
+    <td align="center" width="96">
+      <a href="#alpay-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
+      </a>
+      
+      <br>Html5
+    </td>
+    <td align="center" width="96">
+      <a href="#alpay-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript"/>
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#alpay-stack">
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+   <td align="center" width="96">
+      <a href="#alpay-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+  </tr> 
+</table>
+
+## :comet: Contact
+
+<a href="#">
+  <img align="right"/>
+</a>
+
+- :comet: &nbsp;**[Github](https://github.com/alpayabdullayev)**
+
+- :camera: &nbsp;**[Instagram](https://www.instagram.com/alphay09/)**
+
+<br>
+
+designed by Alpay
