@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **ehmedosmanov@gmail.com**
+- 📫 How to reach me **alpayabdullayev0@gmail.com**
 
 <br>
 <br>
