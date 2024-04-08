@@ -24,40 +24,7 @@
 
 
 
-<h2 align="left" id="alpay-stack">Tech stack</h2>
 
->  General
- 
-<table width='100%'>
-  <tr>
-    <td align="center" width="96">
-      <a href="#alpay-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#alpay-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96"> 
-      <a href="#alpay-stack" >
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
-      </a>
-      <br>Npm
-    </td>
-     <td align="center" width="96"> 
-      <a href="#alpay-stack" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" width="48" height="48" alt="github" />
-      </a>
-      <br>Github
-  </tr> 
-</table>
-
->  Frontend
- 
 <br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
