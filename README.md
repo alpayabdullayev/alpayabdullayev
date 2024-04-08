@@ -58,40 +58,17 @@
 
 >  Frontend
  
-<table width='100%'> 
-    <tr>
-    <td align="center" width="96">
-      <a href="#alpay-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-     <td align="center" width="96"> 
-      <a href="#alpay-stack" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
-      </a>
-      <br>Css3
-    </td>
-    <td align="center" width="96">
-      <a href="#alpay-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
-    <td align="center" width="96">
-      <a href="#alpay-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript"/>
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#alpay-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React JS
-    </td>
-  </tr> 
-</table>
+<br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,redux,tailwindcss,nodejs,expressjs,mongodb,vscode,vite,github,git,ts,next)](https://skillicons.dev)
+
+
+<br>
+
 
 ## :comet: Contact
 <a href="#">
