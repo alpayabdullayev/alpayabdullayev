@@ -31,7 +31,7 @@
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,redux,tailwindcss,nodejs,expressjs,mongodb,vscode,vite,github,git,ts,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,redux,jquery,tailwindcss,bootstrap,nodejs,expressjs,mongodb,vscode,vite,github,git,ts,next)](https://skillicons.dev)
 
 
 <br>
